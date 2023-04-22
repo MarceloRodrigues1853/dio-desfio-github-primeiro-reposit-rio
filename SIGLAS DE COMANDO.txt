@@ -1,0 +1,27 @@
+SIGLAS DE COMANDO
+
+ACESSAR PAINEL DE CONTROLE(TERMINAL):CMD
+
+ACESSAR E LISTAR PASTAS DE DIRETORIO: DIR ou dir
+
+NAVEGAR ENTRE AS PASTAS: CD /
+
+IR PARA PASTA ESPECIFICA DIGITE CD E O NOME DA TAL: exemplo CD Windows
+
+RETROCEDER 1 LIVEL NAS PASTAS E ROSITORIOS: CD .. ou cd ..
+
+LIMPAR A TELA: CLS ou cls
+
+*Obs TAB (atalho no teclado): função de autocompletar
+
+CRiAR UMA NOVA PASTA: MKDIR OU mkdir e o nome da nova pasta
+
+CRIAR UM NOVO ARQUIVO NA PASTA DE DIRETORIO: ECHO ou echo mais o nome ,depois
+use ECHO (NOME) e sibolo de maior(>) logo apos o simbolo de maior(>) ecreva
+(nome).txt e de ENTER
+
+DELETAR UM DIRETORIO OU ARQUIVO DENTRO DE UMA PASTA: DEL ou del e (nome) e depois de ENTER
+
+DELETAR UM REPOSITÓRIO:rmdir(nome da pasta) /S /Q e ENTER
+
+NAVEGAR PELO HISTÓRICO: no teclado use SETA PRA CIMA
